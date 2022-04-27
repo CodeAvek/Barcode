@@ -25,4 +25,13 @@ img.save("myQrcosde.jpg")
 ```
 
 
-#For Termux You Have To do This
+# For Termux You Have To do This
+```
+apt update
+```
+```
+apt upgrade
+```
+```
+wget https://raw.githubusercontent.com/CodeAvek/Barcode/main/barcode.py
+```
